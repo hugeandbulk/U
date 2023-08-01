@@ -212,3 +212,5 @@ if [ -f "$HOME/.laptop.local" ]; then
   # shellcheck disable=SC1091
   . "$HOME/.laptop.local"
 fi
+
+#// eof
